@@ -9,6 +9,7 @@
   
 
 - Los slides de la charla de David, **Creación de Rest APIs con VERT.X** está en este [link.](https://drive.google.com/file/d/1aOQRGzZaRyBK7ZZ4G784LpWsp4WUQbbW/view?usp=sharing)
+  <br>Y también el código de los ejemplos puede ser encontrado [aqui.](https://github.com/bascopedavid/vertx-tasks)
 ![About David](img/about_david.jpg)
  
  
